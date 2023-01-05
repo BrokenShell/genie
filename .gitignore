@@ -1,3 +1,5 @@
 /build
 /Genie.egg-info/
 /Genie.cpp
+.env
+/venv
